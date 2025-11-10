@@ -18,7 +18,8 @@
 File: `php_dasar.php`  
 Menampilkan teks “Hello World” sebagai uji awal PHP berjalan dengan benar.
 
-<img width="144" height="162" alt="image" src="https://github.com/user-attachments/assets/e9f02974-ab57-4046-80b6-5dad378fd38d" />
+<img width="144" height="153" alt="image" src="https://github.com/user-attachments/assets/88838d01-76aa-4c5b-884e-69bdb475b9f6" />
+
 
 ---
 
@@ -28,9 +29,6 @@ Membuat form input sederhana untuk menerima data dari pengguna melalui metode PO
 
 ### Tampilan Form
 <img width="300" height="173" alt="image" src="https://github.com/user-attachments/assets/42f2cac7-dd50-481d-924d-355f6b9a7fb6" />
-
-### Hasil Setelah Dikirim
-<img width="149" height="159" alt="image" src="https://github.com/user-attachments/assets/44e28ea6-96c5-4652-b976-dd0caa4ef366" />
 
 ---
 
