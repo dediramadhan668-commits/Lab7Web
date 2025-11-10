@@ -28,7 +28,8 @@ File: `latihan2.php`
 Membuat form input sederhana untuk menerima data dari pengguna melalui metode POST.
 
 ### Tampilan Form
-<img width="300" height="173" alt="image" src="https://github.com/user-attachments/assets/42f2cac7-dd50-481d-924d-355f6b9a7fb6" />
+<img width="298" height="163" alt="image" src="https://github.com/user-attachments/assets/5559f5e0-ff3d-478c-bcb3-c110a029eeb8" />
+
 
 ---
 
